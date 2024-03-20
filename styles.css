@@ -1,13 +1,13 @@
 .car-text {
     color: black;
     font-size: xx-large;
-    
+
 }
 
 #mail {
     padding-left: 10%;
     padding-right: 10%;
-    
+
 }
 
 .card {
@@ -15,6 +15,11 @@
 }
 
 #carouselExampleCaptions {
-    
+
     padding: 5%;
 }
+
+p.highlighted {
+    font-size: 40px;
+
+  }
