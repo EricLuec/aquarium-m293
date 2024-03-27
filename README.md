@@ -9,8 +9,12 @@
 
 ![landing](https://github.com/EricLuec/aquarium-m293/assets/140081980/efd95ab2-ab51-4cf2-9059-7875e0480936)
 
-
-
+\
+\
+\
+\
+\
+\
 
 <h2 align="center">Here some animals are shown and described:</h2> 
 
