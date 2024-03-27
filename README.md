@@ -1,8 +1,10 @@
-# Made with plain HTML and Bootstrap CSS.
+<h1 align="center">Made with plain HTML and Bootstrap CSS.</h1>
 
 ## Heres my wireframe:
 
-### This is the landing page:
+---
+
+<h2 align="center">Landing page</h2>
 
 
 
